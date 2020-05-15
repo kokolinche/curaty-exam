@@ -310,7 +310,7 @@ header{
 }
 .el:nth-child(1) .el__bg:before {
   transition-delay: 0s;
-  background-image: url("file:///C:/Users/Claudia/Desktop/curaty/img/background-3.png");
+  background-image: url("https://i.ibb.co/7QD8LCt/background-3.jpg");
 }
 .el:nth-child(2) {
   -webkit-transform: translate3d(105.2083333333%, 0, 0);
@@ -335,7 +335,7 @@ header{
 }
 .el:nth-child(2) .el__bg:before {
   transition-delay: 0.1s;
-  background-image: url("file:///C:/Users/Claudia/Desktop/curaty/img/background-3.png");
+  background-image: url("https://i.ibb.co/7QD8LCt/background-3.jpg");
 }
 .el:nth-child(3) {
   -webkit-transform: translate3d(210.4166666667%, 0, 0);
@@ -360,7 +360,7 @@ header{
 }
 .el:nth-child(3) .el__bg:before {
   transition-delay: 0.2s;
-  background-image: url("file:///C:/Users/Claudia/Desktop/curaty/img/background-3.png");
+  background-image: url("https://i.ibb.co/7QD8LCt/background-3.jpg");
 }
 .el:nth-child(4) {
   -webkit-transform: translate3d(315.625%, 0, 0);
@@ -385,7 +385,7 @@ header{
 }
 .el:nth-child(4) .el__bg:before {
   transition-delay: 0.3s;
-  background-image: url("file:///C:/Users/Claudia/Desktop/curaty/img/background-3.png");
+  background-image: url("https://i.ibb.co/7QD8LCt/background-3.jpg");
 }
 .el:nth-child(5) {
   -webkit-transform: translate3d(420.8333333333%, 0, 0);
@@ -410,7 +410,7 @@ header{
 }
 .el:nth-child(5) .el__bg:before {
   transition-delay: 0.4s;
-  background-image: url("file:///C:/Users/Claudia/Desktop/curaty/img/background-3.png");
+  background-image: url("https://i.ibb.co/7QD8LCt/background-3.jpg");
 }
 .el:hover .el__bg:after {
   opacity: 0;
@@ -472,8 +472,6 @@ header{
 
 
 }
-
-
   .x {
     font-size: 32px;
     line-height: 32px;
@@ -490,10 +488,10 @@ header{
   width: 40%;
 }
 
-video{
+/* video{
   width:100%;
   padding-right: 10px;
-}
+} */
 
 
 #info-text{
